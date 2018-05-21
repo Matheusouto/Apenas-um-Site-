@@ -1,1 +1,8 @@
 /*=========== RESET ==========*/
+* {margin: 0; padding: 0; font-size: 105%; border: none; outline: none; font-weight: 300; box-sizing: border-box;
+font-family: 'Lato', sans-serif;}
+
+
+/*=========== MENU ==========*/
+.collapse {background: linear-gradient(to right, #EE5C42,#B452CD);}
+.collapse li a:hover {border: 1px solid #379dec;}
