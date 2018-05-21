@@ -6,3 +6,9 @@ font-family: 'Lato', sans-serif;}
 /*=========== MENU ==========*/
 .collapse {background: linear-gradient(to right, #EE5C42,#B452CD);}
 .collapse li a:hover {border: 1px solid #379dec;}
+
+
+#nome_menu{
+	color: white;
+	font-weight: bolder;
+}
